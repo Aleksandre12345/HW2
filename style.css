@@ -1,0 +1,46 @@
+h1 {
+    color: brown;
+    background-color: goldenrod;
+}
+
+table{
+    border: 3px solid black;
+    border-spacing: 3px;
+.th {
+    border: 3px solid;
+}
+
+}
+.nika {
+    border: 3px dotted;
+}
+
+.gio {
+    border: 3px dashed;
+}
+
+.valer,
+.mariam {
+    border: 3px solid;
+}
+
+th {
+    background-color: aqua;
+}
+
+.line-2 {
+    background-color: chartreuse;
+}
+.line-3 {
+    background-color: darkgoldenrod;
+}
+.line-4 {
+    background-color: darkorchid;
+}
+.line-5 {
+    background-color: lightpink;
+}
+
+.twitter {
+    width: 200px;
+}
